@@ -1,4 +1,4 @@
-# Fundamentos de Python
+# Python
 
 Este repositório contém uma coleção de arquivos em formato Python que foram criados durante o meu curso de Python. Cada arquivo corresponde a um exemplo ou exercício específico abordado no curso.
 
